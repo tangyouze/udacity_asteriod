@@ -3,7 +3,7 @@
 This game was created Doug McInnes. His code can be found
 [here](https://github.com/dmcinnes/HTML5-Asteroids), and you can play his
 version of the game online at his website
-[here](http://dougmcinnes.com/2010/05/12/html-5-asteroids/).
+[hee](http://dougmcinnes.com/2010/05/12/html-5-/).
 
 Caroline Buckey and Sarah Spikes modified the repository to create exercises for
 the Udacity course [Version Control Using Git and Github](TODO). These
